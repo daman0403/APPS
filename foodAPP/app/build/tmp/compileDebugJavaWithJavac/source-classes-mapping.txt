@@ -1,0 +1,15 @@
+com/example/android/foodappp6/SplashScreenActivity.java
+ com.example.android.foodappp6.SplashScreenActivity
+ com.example.android.foodappp6.SplashScreenActivity$1
+com/example/android/foodappp6/BuildConfig.java
+ com.example.android.foodappp6.BuildConfig
+com/example/android/foodappp6/MainActivity.java
+ com.example.android.foodappp6.MainActivity
+ com.example.android.foodappp6.MainActivity$1
+ com.example.android.foodappp6.MainActivity$2
+com/example/android/foodappp6/SignUp_activity.java
+ com.example.android.foodappp6.SignUp_activity
+ com.example.android.foodappp6.SignUp_activity$1
+com/example/android/foodappp6/SignIn_activity.java
+ com.example.android.foodappp6.SignIn_activity
+ com.example.android.foodappp6.SignIn_activity$1
